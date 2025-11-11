@@ -1,5 +1,5 @@
 //Voor de GUI(Graphical User Interface), moeten we een gedeelte uit de swing library gebruiken
-
+import javax.swing.JOptionPane
 //we maken het standaard gedeelte aan,
 public class JOptionPaneTutorial {
     public static void main(String[] args){
