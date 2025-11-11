@@ -1,0 +1,3 @@
+Als eerste zou ik de calculator testen, en daarna de GUI tutorials bekijken:
+1. JOptionPaneTutorial
+2. Jframe
